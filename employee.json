@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"maindb"},
+{"type":"table","name":"employee","database":"maindb","data":
+[
+{"id":"00001","name":"Michael Bruce","gender":".Male","designation":"System Architect"},
+{"id":"00002","name":"Jennifer Winters","gender":".Female","designation":"Senior Programmer"},
+{"id":"00003","name":"Donna Fox ","gender":".Female","designation":"Office Maneger"},
+{"id":"00004","name":"Howard Hatfield","gender":".Male","designation":"Customer Support"}
+]
+}
+]
